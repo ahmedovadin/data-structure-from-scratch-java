@@ -1,3 +1,5 @@
+package linkedlist;
+
 public class CustomLinkedList <T> {
     class Node<T> {
         T value;
